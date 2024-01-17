@@ -4,10 +4,10 @@
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/vansh-bhatnagar-9774a8221/">
-  <img align="left" alt="Vansh's LinkdeIN" width="22px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
+  <img align="left" alt="Vansh's LinkdeIN" width="22px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 50px;"/>
 </a>
 <a href="https://www.instagram.com/vanshb_9/">
-  <img align="left" alt="Vansh's Instagram" width="22px" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  <img align="left" alt="Vansh's Instagram" width="22px" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 50px;" />
 </a>
 
 <br />
