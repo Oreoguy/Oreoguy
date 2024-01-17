@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm [Vansh!]
 
+*****************
 
 <a href="https://www.linkedin.com/in/vansh-bhatnagar-9774a8221/">
   <img align="left" alt="Vansh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,12 +15,19 @@
 <br />
 <br />
 
-Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India, currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) Beside's programming, I enjoy travelling, adventure sports and marathon running.
+******************
+
+Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India, currently, 
+I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) 
+Beside's programming, I enjoy travelling, adventure sports and marathon running.
+
+******************
 
 <div align ="left">
  <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" >
 
-  
+******************
+
 **Talking about Myself :**
 
 - 🌱 I’m currently learning basics of UTM (Unified Threat Management) and Firewall Security; 
