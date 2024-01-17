@@ -1,5 +1,5 @@
 <div align ="centre">
- <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" >
+ <img align = "centre" img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" >
 
 
 👋 Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India.
