@@ -1,4 +1,6 @@
-### Hi there 👋, I'm [Vansh!]
+👋 Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India.
+Currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) 
+Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
 *****************
 ## Connect with me
@@ -25,10 +27,14 @@
 
 </div>
 <br/>  
+## Languages  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="35" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="35" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="35" /></a>
+</div>  
+<br/>
 
-Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India, currently, 
-I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) 
-Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
 ******************
 
