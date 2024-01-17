@@ -5,8 +5,8 @@
 
 Hi, I'm Vansh Bhatnagar.👋 
 A Cybersecurity Enthusiast 🚀 from India.
-Currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) 
-Beside's programming, I enjoy travelling, adventure sports and marathon running.
+</br>Currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) 
+</br>Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
 <br/>
 <br/>  
