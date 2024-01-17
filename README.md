@@ -47,7 +47,3 @@ Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
 ![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=Oreoguy&show_icons=true&hide_border=true)
 
-<a href="https://github.com/Jrap-bit/MalwareGuard">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Jrap-bit&repo=A-POP" />
-</a>
-
