@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm [Vansh!]
 
 
-**Oreoguy/Oreoguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="https://www.linkedin.com/in/vansh-bhatnagar-9774a8221/">
   <img align="left" alt="Vansh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,9 +14,10 @@
 <br />
 <br />
 
-Hi, I'm Abhishek Naidu, a Cybersecurity Enthusiast 🚀 from India, currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@CAngIndia](https://www.angindia.in/) Beside's programming, I enjoy travelling, adventure sports and marathon running.
+Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India, currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@CAngIndia](https://www.angindia.in/) Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
-  <iframe src="https://giphy.com/embed/hun4DFmfnDId3lid5b" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b">via GIPHY</a></p>
+  <img align="right" alt="GIF" src="https://giphy.com/embed/hun4DFmfnDId3lid5b" />
+ 
   
   
 **Talking about Myself :**
