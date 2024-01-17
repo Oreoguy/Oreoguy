@@ -3,16 +3,21 @@ Currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍
 Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
 *****************
-## Connect with me
+<br/>  
 
-<a href="https://www.linkedin.com/in/vansh-bhatnagar-9774a8221/">
-  <img align="left" alt="Vansh's LinkdeIN" width="22px" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 500px;"/>
-</a>
-<a href="https://www.instagram.com/vanshb_9/">
-  <img align="left" alt="Vansh's Instagram" width="22px" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 50px;" />
-</a>
 
-<br />
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Oreoguy" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/vansh-bhatnagar-9774a8221/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+
+<br/>  
 <br />
 <br/>
 
