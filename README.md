@@ -15,15 +15,8 @@
 <br />
 
 Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India, currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@CAngIndia](https://www.angindia.in/) Beside's programming, I enjoy travelling, adventure sports and marathon running.
+<iframe src="https://giphy.com/embed/hun4DFmfnDId3lid5b" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b">via GIPHY</a></p>
 
-  <img align="right" alt="GIF" src="https://giphy.com/embed/hun4DFmfnDId3lid5b" />
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-    <iframe src="https://giphy.com/embed/hun4DFmfnDId3lid5b" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> 
-    </iframe>
-    </div>
-    <p>
-      <a href="https://giphy.com/gifs/SandiaLabs-cyber-hacking-attack-hun4DFmfnDId3lid5b">via GIPHY</a>
-    </p>
  
   
   
