@@ -16,7 +16,7 @@
 
 Hi, I'm Vansh Bhatnagar, a Cybersecurity Enthusiast 🚀 from India, currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
-<div align ="right">
+<div align ="left">
   <br>
   <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
   </br>
