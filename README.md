@@ -2,6 +2,9 @@
 Currently, I'm pursuing an internship in a service-based Organisation🙍🏽‍♂️ [@AngIndia](https://www.angindia.in/) 
 Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
+<div align ="left">
+ <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" >
+
 *****************
 <br/>  
 
@@ -44,8 +47,7 @@ Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
 ******************
 
-<div align ="left">
- <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" >
+
 
 ******************
 
