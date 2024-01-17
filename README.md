@@ -27,6 +27,7 @@ Beside's programming, I enjoy travelling, adventure sports and marathon running.
 
 </div>
 <br/>  
+
 ## Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="35" /></a>  
